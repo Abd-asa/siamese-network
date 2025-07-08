@@ -69,7 +69,7 @@ After training:
 
 ### ⏱ Model Performance Metrics
 
-![Confusion Matrix](media/res_1.jpeg)
+![Confusion Matrix](media/confusion_matrix.jpeg)
 
 ---
 
